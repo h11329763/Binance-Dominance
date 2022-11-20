@@ -127,11 +127,11 @@ def coin_name_bsc(coin_contract_bsc,bsc_API):
 from etherscan import Etherscan
 import numpy as np
 
-bsc_API = '11FGIB5HM2BXP262N2FAUHZ17XBB2QY3Z8'
-eth_API = '67PH3U6643C3GZYBHZGVR455PAHF3E4XB7'
+bsc_API = 'Your API KEY'
+eth_API = 'Your API KEY'
 
-coin_contract_eth = ''
-coin_contract_bsc = '0x0409633A72D846fc5BBe2f98D88564D35987904D'
+coin_contract_eth = 'Shit Coin Contract'
+coin_contract_bsc = 'Shit Coin Contract'
 
 if len(coin_contract_eth) < 1:
    XD = 1
